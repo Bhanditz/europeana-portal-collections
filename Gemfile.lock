@@ -416,7 +416,7 @@ GEM
       websocket-driver (>= 0.2.0)
     powerpack (0.1.1)
     public_suffix (2.0.5)
-    puma (2.16.0)
+    puma (3.9.1)
     rack (1.6.5)
     rack-pjax (0.8.0)
       nokogiri (~> 1.5)
@@ -652,7 +652,7 @@ DEPENDENCIES
   pg
   phantomjs
   poltergeist
-  puma (~> 2.13)
+  puma
   rack-rewrite
   rails (= 4.2.7.1)
   rails_admin (~> 0.8.0)
@@ -677,3 +677,6 @@ DEPENDENCIES
   uglifier (~> 2.7.2)
   webmock (~> 1.22)
   yard
+
+BUNDLED WITH
+   1.13.1
