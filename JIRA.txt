@@ -5,3 +5,5 @@ additional text
 and some more
 
 again
+
+text where the commit message doesn't contain the ticket number
