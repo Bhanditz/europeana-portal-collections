@@ -3,7 +3,3 @@ EC-2490 testing Jira/Github integration
 additional text
 
 and some more
-
-again
-
-text where the commit message doesn't contain the ticket number
